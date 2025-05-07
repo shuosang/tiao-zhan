@@ -98,8 +98,8 @@
 
         <video controls width="100%" style="border-radius: 8px; margin: 1rem 0"
             poster="display/thumbnail.jpg" preload="metadata">
-            <source src="C:\Users\35383\Desktop\display/navigation-demo.mp4" type="video/mp4">
-            <source src="C:\Users\35383\Desktop\display/navigation-demo.webm" type="video/webm">
+            <source src="display/navigation-demo.mp4" type="video/mp4">
+            <source src="display/navigation-demo.webm" type="video/webm">
             <p class="video-fallback">请使用现代浏览器查看视频</p> <!-- 确保闭合 -->
         </video> <!-- 确保闭合 -->
 
